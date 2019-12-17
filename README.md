@@ -7,7 +7,7 @@ Solution:
 * installing Flask (pip install Flask)
 * Then install Misaka module (contains markdown parsing library)
 
-index.html - web page that lists all file paths as hyperlinks
-page.html -  web page to renders the result
-project.py -contains the code to parse the .md files in html format
-index.html and page.html present in the templates folder.
+* index.html - web page that lists all file paths as hyperlinks. 
+* page.html -  web page to render the result.
+* project.py - contains the code to parse the .md files in html format.
+* index.html and page.html present in the templates folder.
